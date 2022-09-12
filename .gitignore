@@ -1,6 +1,7 @@
 *.pyc
 *.swp
 
+tags
 doc/tags
 
 README.html
